@@ -1,7 +1,7 @@
 baseURL: https://g9420.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "G9420 Blog"
 
 # Use Hugo modules to add theme
 module:
